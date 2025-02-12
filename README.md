@@ -121,10 +121,10 @@ A **Power BI** dashboard providing interactive insights into **mobile sales perf
 1. Create an **images** folder in your repo.  
 2. Upload your **dashboard screenshots** to this folder.  
 3. Reference images in the README using:  
-   ```markdown
-   ![Alt Text](images/your_image.png)
-   ```  
+ 
+![Image](https://github.com/user-attachments/assets/51f403bc-392c-4e66-9512-8885bcda30c7)
+![Image](https://github.com/user-attachments/assets/daa3ed59-0346-4d37-a429-c6e6e41c26ce)
+![Image](https://github.com/user-attachments/assets/b51ac423-0719-4ca7-a5d1-5de57f0ce0b4)
 
----
 
 Your **Power BI GitHub README** is now **complete with images!** 🎉 Let me know if you need modifications. 🚀
